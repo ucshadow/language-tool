@@ -1,0 +1,8 @@
+﻿**/bin
+**/obj
+**/packages
+**/.vs
+*.dt
+*.exe
+*.log
+*.json
